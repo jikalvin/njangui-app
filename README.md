@@ -1,18 +1,18 @@
-# Banking App in ReactJS
+# Njangui app in ReactJS
 
 ![Banking App Screenshot](screen.png)
 
-The user is a bank employee who manually manages the bank's accounts.
-He does the creation of account manually using the account holders name and sets the initial balance of the account if possible.
+The admin of the group admits users into the njangui
 
 He also does the withdrawal and deposit manually for each account.
 He also does the transfer of balances if there are requests for it.
-Your task is to help this poor employee out by creating a simple admin banking app
 
-[Live demo of Banking App](https://jeffdelara.github.io/banking-app/)
+The normal njangui group member has user status
+
+[Live demo of Banking App](https://github.com/jikalvin/njangui-app.git)
 
 ## Objective
-A banking app created with ReactJS.
+A njangui app created with ReactJS.
 
 ## Demo Account Credentials
 
@@ -30,4 +30,4 @@ email: client@client.com
 password: abc123
 ```
 
-[Live demo of Banking App](https://jeffdelara.github.io/banking-app/)
+[Live demo of Banking App](https://github.com/jikalvin/njangui-app.git)
