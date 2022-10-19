@@ -9,7 +9,6 @@ He also does the transfer of balances if there are requests for it.
 
 The normal njangui group member has user status
 
-[Live demo of Banking App](https://github.com/jikalvin/njangui-app.git)
 
 ## Objective
 A njangui app created with ReactJS.
@@ -30,4 +29,3 @@ email: client@client.com
 password: abc123
 ```
 
-[Live demo of Banking App](https://github.com/jikalvin/njangui-app.git)
