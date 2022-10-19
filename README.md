@@ -1,7 +1,5 @@
 # Njangui app in ReactJS
 
-![Banking App Screenshot](screen.png)
-
 The admin of the group admits users into the njangui
 
 He also does the withdrawal and deposit manually for each account.
